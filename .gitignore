@@ -11,7 +11,11 @@ wheels/
 .venv
 
 # Environment variables
-.env
+.env*
 
 # Mac
 .DS_Store
+
+scripts/*
+
+Makefile
